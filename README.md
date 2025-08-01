@@ -11,7 +11,7 @@
   - [**Data on CO2 and Greenhouse Gas Emissions by Our World in Data - owid-co2-data.csv**](https://github.com/owid/co2-data)
 
 ### Data Report 
-- Please download **stabilize_co2.pdf** to view my data report. This report contains code, visualizations and explainations as to key insights the plots are showing.
+- Please download **stabilize_co2.pdf** to view my data report. This report contains code, visualizations and explainations as to the key insights to associated plotted data.
 
 ### Sources
 - Github: SpencerPao / Data_Science
